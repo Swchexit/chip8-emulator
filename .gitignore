@@ -1,0 +1,6 @@
+# Clion configs
+/.idea
+# Cmake build directory
+/cmake-build-*
+# Game ROMs used for testing
+/game_roms/
